@@ -1,0 +1,15 @@
+C:\CSharp\FilesAndDirectory\bin\Debug\net6.0\FilesAndDirectory.exe
+C:\CSharp\FilesAndDirectory\bin\Debug\net6.0\FilesAndDirectory.deps.json
+C:\CSharp\FilesAndDirectory\bin\Debug\net6.0\FilesAndDirectory.runtimeconfig.json
+C:\CSharp\FilesAndDirectory\bin\Debug\net6.0\FilesAndDirectory.dll
+C:\CSharp\FilesAndDirectory\bin\Debug\net6.0\FilesAndDirectory.pdb
+C:\CSharp\FilesAndDirectory\obj\Debug\net6.0\FilesAndDirectory.csproj.AssemblyReference.cache
+C:\CSharp\FilesAndDirectory\obj\Debug\net6.0\FilesAndDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\FilesAndDirectory\obj\Debug\net6.0\FilesAndDirectory.AssemblyInfoInputs.cache
+C:\CSharp\FilesAndDirectory\obj\Debug\net6.0\FilesAndDirectory.AssemblyInfo.cs
+C:\CSharp\FilesAndDirectory\obj\Debug\net6.0\FilesAndDirectory.csproj.CoreCompileInputs.cache
+C:\CSharp\FilesAndDirectory\obj\Debug\net6.0\FilesAndDirectory.dll
+C:\CSharp\FilesAndDirectory\obj\Debug\net6.0\refint\FilesAndDirectory.dll
+C:\CSharp\FilesAndDirectory\obj\Debug\net6.0\FilesAndDirectory.pdb
+C:\CSharp\FilesAndDirectory\obj\Debug\net6.0\FilesAndDirectory.genruntimeconfig.cache
+C:\CSharp\FilesAndDirectory\obj\Debug\net6.0\ref\FilesAndDirectory.dll
